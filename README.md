@@ -1,2 +1,4 @@
-ninja school 1: 8-9/10
-Star invasion: 5-6/10 (giống bắn vịt nhưng dỡ hơn nhiều)
+- ninja school 1: 8-9/10 (boss cuối k buff hp and mp thì k thể thắng được)
+- Star invasion: 4-5/10 (giống bắn vịt nhưng dỡ hơn nhiều)
+- cá bé cá lớn: 6-7/10 (màn thường rất khó, giai đoạn cá bé khó sống)
+- 
